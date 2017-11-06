@@ -4,6 +4,6 @@ public class Miernik
 {
 	public static void main(String[] args)
 	{
-		System.out.println("elo");
+		System.out.println("elo322");
 	}
 }
